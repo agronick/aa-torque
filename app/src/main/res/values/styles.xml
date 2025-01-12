@@ -484,6 +484,25 @@
     </style>
 
 
+    <style name="AppTheme.Bolt" parent="@style/AppTheme">
+        <item name="sv_indicator">QuarterLineIndicator</item>
+        <item name="sv_indicatorColor">#ff33bb11</item>
+        <item name="sv_indicatorLightColor">#ff33bb11</item>
+        <item name="sv_indicatorWidth">6.0dip</item>
+        <item name="sv_speedometerWidth">40.0dip</item>
+        <item name="sv_tickPadding">20.0dip</item>
+        <item name="sv_tickRotation">false</item>
+        <item name="sv_withIndicatorLight">true</item>
+        <item name="themedBlankDialBackground">@drawable/dial_background_blank_bolt</item>
+        <item name="themedCarBackground">@drawable/background_incar_bolt</item>
+        <item name="themedDialBackground">@drawable/dial_background_bolt</item>
+        <item name="themedEmptyDialBackground">@drawable/dial_background_empty_bolt</item>
+        <item name="themedNeedle">@drawable/needle</item>
+        <item name="themedNeedleColor">@color/green</item>
+        <item name="themedStopWatchBackground">@drawable/sw_background_bolt</item>
+    </style>
+
+
     <style name="AppTheme.ProgressBar.Horizontal" parent="Widget.AppCompat.ProgressBar.Horizontal">
         <item name="android:progressDrawable">@drawable/progress_vertical_material_car</item>
         <item name="android:minWidth">@dimen/progress_bar_height_material_car</item>

@@ -26,6 +26,7 @@
         <item>Aston Martin</item>
         <item>Electro Vehicle</item>
         <item>Test</item>
+        <item>Bolt</item>
     </string-array>
 
     <array name="ThemesThumbs">
@@ -53,6 +54,7 @@
         <item>@drawable/ic_theme_am</item>
         <item>@drawable/ic_theme_ev</item>
         <item>@drawable/ic_theme_test</item>
+        <item>@drawable/ic_theme_bolt</item>
     </array>
 
     <array name="ThemeList">
@@ -80,6 +82,7 @@
         <item>@style/AppTheme.AM</item>
         <item>@style/AppTheme.EV</item>
         <item>@style/AppTheme.Testing</item>
+        <item>@style/AppTheme.Bolt</item>
     </array>
 
     <string-array name="fontEntries">
@@ -297,6 +300,7 @@
         <item>@drawable/thumb_background_incar_aa</item>
         <item>@drawable/thumb_background_incar_ev</item>
         <item>@drawable/thumb_background_incar_test</item>
+        <item>@drawable/thumb_background_incar_bolt</item>
     </array>
 
     <string-array name="backgroundstrings">
@@ -322,6 +326,7 @@
         <item>@string/bg_aa</item>
         <item>@string/bg_ev</item>
         <item>@string/bg_test</item>
+        <item>@string/bg_bolt</item>
     </string-array>
 
     <array name="backgrounds">
@@ -347,6 +352,7 @@
         <item>background_incar_aa</item>
         <item>background_incar_ev</item>
         <item>background_incar_test</item>
+        <item>background_incar_bolt</item>
     </array>
     <string-array name="minmax_enum_value">
         <item>0</item>

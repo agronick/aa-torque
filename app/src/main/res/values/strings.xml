@@ -94,6 +94,7 @@
     <string name="bg_skodaone">OneApp</string>
     <string name="bg_blackboard">Blackboard</string>
     <string name="bg_test">Test</string>
+    <string name="bg_bolt">Bolt</string>
     <string name="bg_beetle">Herbie</string>
     <string name="pref_background">Background</string>
     <string name="font_ford" translatable="false">United Sans</string>
